@@ -1,0 +1,6 @@
+C:\Users\jean.nonato\Source\Repos\Atividade_Complementar\Atividade_Complementar\ComparaPoupancaRendaFixa\AtividadeComplementar1\bin\Debug\AtividadeComplementar1.exe.config
+C:\Users\jean.nonato\Source\Repos\Atividade_Complementar\Atividade_Complementar\ComparaPoupancaRendaFixa\AtividadeComplementar1\bin\Debug\AtividadeComplementar1.exe
+C:\Users\jean.nonato\Source\Repos\Atividade_Complementar\Atividade_Complementar\ComparaPoupancaRendaFixa\AtividadeComplementar1\bin\Debug\AtividadeComplementar1.pdb
+C:\Users\jean.nonato\Source\Repos\Atividade_Complementar\Atividade_Complementar\ComparaPoupancaRendaFixa\AtividadeComplementar1\obj\Debug\AtividadeComplementar1.csprojResolveAssemblyReference.cache
+C:\Users\jean.nonato\Source\Repos\Atividade_Complementar\Atividade_Complementar\ComparaPoupancaRendaFixa\AtividadeComplementar1\obj\Debug\AtividadeComplementar1.exe
+C:\Users\jean.nonato\Source\Repos\Atividade_Complementar\Atividade_Complementar\ComparaPoupancaRendaFixa\AtividadeComplementar1\obj\Debug\AtividadeComplementar1.pdb
