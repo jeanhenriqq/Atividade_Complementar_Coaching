@@ -6,15 +6,11 @@ using System.Threading.Tasks;
 
 namespace AtividadeComplementar1
 {
-    class Poupanca : Conta
+    public class Poupanca : Conta
     {
-        public double JurosPoupanca { get; set; }
-
-
         public void CalculaPoupanca()
         {
-            TaxaJuros = JurosPoupanca;
-            base.Calcula();
+            base.CalculaRendimento();
         }
     }
 }

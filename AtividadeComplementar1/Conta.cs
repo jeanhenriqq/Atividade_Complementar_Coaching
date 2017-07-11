@@ -16,7 +16,7 @@ namespace AtividadeComplementar1
 
 
 
-        public void Calcula()
+        public void CalculaRendimento()
         {
             ValorTotal = Valor;
 
@@ -25,15 +25,6 @@ namespace AtividadeComplementar1
                 ValorJurosMes = ((ValorTotal * TaxaJuros) / 100);
                 ValorTotal += ValorJurosMes;
             }
-
-        }
-
-
-
-        public void PreencherConta(Conta conta)
-        {
-            QuantidadeMes = conta.QuantidadeMes;
-            Valor = conta.Valor;
 
         }
     }

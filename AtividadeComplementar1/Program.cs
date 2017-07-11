@@ -18,17 +18,14 @@ namespace AtividadeComplementar1
 
 
             Console.Write("Valor a ser aplicado:  ");
-            conta.Valor = Convert.ToDouble(Console.ReadLine());
+            poupanca.Valor = rendaFixa.Valor = Convert.ToDouble(Console.ReadLine());
             Console.Write("\nTaxa de juros de poupança: ");
-            poupanca.JurosPoupanca = Convert.ToDouble(Console.ReadLine());
+            poupanca.TaxaJuros = Convert.ToDouble(Console.ReadLine());
             Console.Write("\nTaxa de juros de Renda Fixa: ");
             rendaFixa.TaxaJuros = Convert.ToDouble(Console.ReadLine());
             Console.Write("\nMeses de aplicação: ");
-            conta.QuantidadeMes = Convert.ToInt32(Console.ReadLine());
-
-            rendaFixa.PreencherConta(conta);
-            poupanca.PreencherConta(conta);
-
+            poupanca.QuantidadeMes = rendaFixa.QuantidadeMes = Convert.ToInt32(Console.ReadLine());
+            
             poupanca.CalculaPoupanca();
             rendaFixa.CalculaRendaFixa();
 
